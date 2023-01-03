@@ -1,1 +1,1 @@
-export const values = [{ value: 1 }, { value: 2 }];
+export const values = [{ value: 1 }, { value: 2 }, { value: 3 }];
